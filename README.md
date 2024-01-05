@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaustubhaPundir from India
 - 👀 I’m interested in programming and computer mechanics.
 - 🌱 I’m currently enrolled in BTech Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on projects related to java and python and C/C++.(not now)
+- 💞️ I’m looking to collaborate on projects related to java and python and C/C++.
 - 📫 How to reach me ...kaustubhapundir@gmail.com
